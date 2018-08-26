@@ -16,7 +16,7 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
   var string = ('hello')
-  return "I can't hear you!"
+  console.log("I can't hear you!")
   
   string = 'HELLO'
   return "YES INDEED!"
